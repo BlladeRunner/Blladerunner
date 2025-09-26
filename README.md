@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 My Projects
-- 📺 [Netflix EDA](https://github.com/Bladerunner/netflix-eda-project) – Exploratory Data Analysis of Netflix dataset  
-- 🎥 [YouTube Trending EDA](https://github.com/Bladerunner/youtube-eda-project) – Analysis of trending videos across countries  
+- 📺 [Netflix EDA](https://github.com/BlladeRunner/netflix-eda-project) – Exploratory Data Analysis of Netflix dataset  
+- 🎥 [YouTube Trending EDA](https://github.com/BlladeRunner/youtube-eda-project) – Analysis of trending videos across countries  
 
 ---
 
