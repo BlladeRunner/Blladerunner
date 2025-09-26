@@ -19,7 +19,7 @@
 ---
 
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a/](https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a/)  
+- 💼 [LinkedIn] https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a/  
 - 📧 Email: rufat.ahmadzadeh@gmail.com
 
 ---
