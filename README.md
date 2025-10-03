@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rufat (Bladerunner)
+# 👋 Hi, I'm Rufat (aka Bladerunner)
 
 🎯 **Aspiring Data Analyst** | Python • SQL • Excel • Power BI  
 📊 Passionate about exploring data, finding insights, and creating clean visualizations.  
