@@ -12,7 +12,8 @@
 - 🎵 [Chinook](https://github.com/BlladeRunner/chinook-sql-analysis) - Monthly revenue & MoM, top customers, genre share, support-rep performance, basket, cohorts, RFM.
 - 🎬 [Sakila](https://github.com/BlladeRunner/sakila-sql-analysis) – Rentals KPIs: monthly revenue & MoM, top films/customers, staff performance, country breakdown, cohorts & RFM.
 - 📊 [Sales Analysis (pandas)](https://github.com/BlladeRunner/sales-analysis-pandas) – Retail sales EDA with Python (pandas, matplotlib, seaborn). Includes monthly sales trend, top products, regional profitability, and sales vs profit analysis.
-  
+- ☕ [Coffee Chain Analysis](https://github.com/BlladeRunner/coffee-chain-analysis) – EDA of global coffee chain sales using Python (pandas, matplotlib, seaborn). Includes monthly sales trends, top products, category profitability, and sales vs profit correlation.
+
 ---
 
 ## 🛠️ Tools & Skills
