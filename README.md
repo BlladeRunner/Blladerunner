@@ -14,6 +14,8 @@
 - 📊 [Sales Analysis (pandas)](https://github.com/BlladeRunner/sales-analysis-pandas) – Retail sales EDA with Python (pandas, matplotlib, seaborn). Includes monthly sales trend, top products, regional profitability, and sales vs profit analysis.
 - ☕ [Coffee Chain Analysis](https://github.com/BlladeRunner/coffee_chain_analysis) – EDA of global coffee chain sales using Python (pandas, matplotlib, seaborn). Includes monthly sales trends, top products, category profitability, and sales vs profit correlation.
 - 👥 [Customer Segmentation – RFM Analysis](https://github.com/BlladeRunner/customer_segmentation_rfm_analysis) – RFM-based customer segmentation using Python (pandas, matplotlib, seaborn). Identifies loyal, new, at-risk, and lost customers with visual insights and data-driven scoring.
+- 💹 [Crypto Market Analysis](https://github.com/BlladeRunner/crypto_market_analysis) - Cryptocurrency market analysis using Python (**pandas**, **matplotlib**, **seaborn**) and the **CoinGecko API**.  
+  Includes price trends, volatility, trading volume, correlation matrix, and max drawdown analytics.
 
 ---
 
