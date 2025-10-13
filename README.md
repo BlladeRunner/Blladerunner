@@ -16,6 +16,7 @@
 - 👥 [Customer Segmentation – RFM Analysis](https://github.com/BlladeRunner/customer_segmentation_rfm_analysis) – RFM-based customer segmentation using Python (pandas, matplotlib, seaborn). Identifies loyal, new, at-risk, and lost customers with visual insights and data-driven scoring.
 - 💹 [Crypto Market Analysis](https://github.com/BlladeRunner/crypto_market_analysis) - Cryptocurrency market analysis using Python (**pandas**, **matplotlib**, **seaborn**) and the **CoinGecko API**.  
   Includes price trends, volatility, trading volume, correlation matrix, and max drawdown analytics.
+- 🧑‍💼 [HR Analytics](https://github.com/BlladeRunner/hr-sql-analysis) – Workforce insights using SQL (SQLite). Includes department-level salary analysis, gender ratio, hiring & termination trends, and experience-based pay insights.
 
 ---
 
