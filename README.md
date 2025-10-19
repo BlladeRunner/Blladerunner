@@ -17,6 +17,7 @@
 - 💹 [Crypto Market Analysis](https://github.com/BlladeRunner/crypto_market_analysis) - Cryptocurrency market analysis using Python (**pandas**, **matplotlib**, **seaborn**) and the **CoinGecko API**.  
   Includes price trends, volatility, trading volume, correlation matrix, and max drawdown analytics.
 - 🧑‍💼 [HR Analytics](https://github.com/BlladeRunner/hr-sql-analysis) – Workforce insights using SQL (SQLite). Includes department-level salary analysis, gender ratio, hiring & termination trends, and experience-based pay insights.
+- 💹 [Finance Market Analytics](https://github.com/BlladeRunner/finance-market-analytics) - SQL + Python project for market data ETL and analytics. Uses yfinance to fetch stock prices, stores them in SQLite, and computes daily/monthly returns, top-performing months, and KPIs.
 
 ---
 
