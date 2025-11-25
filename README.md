@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rufus (aka Bladerunner)
+# 👋 Hi, I'm Rufus
 
 🎯 **Aspiring Data Analyst** | Python • SQL • Excel • Power BI  
 📊 Passionate about exploring data, finding insights, and creating clean visualizations.  
