@@ -18,8 +18,8 @@
   Includes price trends, volatility, trading volume, correlation matrix, and max drawdown analytics.
 - 🧑‍💼 [HR Analytics](https://github.com/BlladeRunner/hr-sql-analysis) – Workforce insights using SQL (SQLite). Includes department-level salary analysis, gender ratio, hiring & termination trends, and experience-based pay insights.
 - 💹 [Finance Market Analytics](https://github.com/BlladeRunner/finance-market-analytics) - SQL + Python project for market data ETL and analytics. Uses yfinance to fetch stock prices, stores them in SQLite, and computes daily/monthly returns, top-performing months, and KPIs.
-- 📈 [Finance Portfolio Analytics](https://github.com/BlladeRunner/finance-portfolio-analytics) – Python + SQL project: historical prices, portfolio returns, KPIs, and analytics pipeline.
-
+- 💳 [Credit Card Fraud Detection (Deep Project)](https://github.com/BlladeRunner/credit-card-fraud) – End-to-end fraud detection project on extremely imbalanced data. Focuses on precision-recall metrics, PR-AUC, decision threshold tuning, and business cost trade-offs. Includes error analysis, false positive/false negative investigation, and executive-level recommendations.
+  
 ---
 
 ## 🛠️ Tools & Skills
