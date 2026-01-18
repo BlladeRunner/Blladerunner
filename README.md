@@ -23,9 +23,29 @@
 ---
 
 ## 🛠️ Tools & Skills
-- **Languages**: Python (pandas, numpy, matplotlib, seaborn), SQL  
-- **Data Tools**: Excel, Power BI, Jupyter Notebooks  
-- **Other**: Git & GitHub, VS Code  
+
+📊 Data Analytics
+- Python (pandas, numpy, matplotlib, seaborn)
+- SQL (SQLite, joins, CTEs, window functions)
+- Excel (Pivot Tables, VLOOKUP/XLOOKUP, Power Query)
+- Power BI (data modeling, DAX basics, dashboards)
+- Jupyter Notebooks
+- Data Analysis: EDA, KPI tracking, cohort analysis, RFM, segmentation, data visualization
+
+🎨 Frontend / UI Engineering
+- JavaScript (ES6+)
+- React (hooks, component-based architecture, state management basics)
+- HTML5 / CSS3
+- Responsive Design (Flexbox, CSS Grid)
+- UI Development: reusable components, clean layouts, UX-oriented thinking
+- Styling: Tailwind CSS (если используешь — очень рекомендую оставить)
+
+⚙️ Tooling & Workflow
+- Git & GitHub
+- VS Code
+- npm
+- Build Tools: Vite / Webpack (basic)
+- API Integration (REST, JSON)
 
 ---
 
