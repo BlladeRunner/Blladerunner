@@ -38,7 +38,7 @@
 - HTML5 / CSS3
 - Responsive Design (Flexbox, CSS Grid)
 - UI Development: reusable components, clean layouts, UX-oriented thinking
-- Styling: Tailwind CSS (если используешь — очень рекомендую оставить)
+- Styling: Tailwind CSS
 
 ⚙️ Tooling & Workflow
 - Git & GitHub
