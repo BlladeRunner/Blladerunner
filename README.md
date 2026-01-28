@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rufus
+# 👋 Hi, I'm Rufus (aka Rufat)
 
 **UI / Frontend Engineer (Junior)**  
 *Building clean, user-friendly interfaces with a strong data-driven mindset*
