@@ -1,58 +1,88 @@
 # 👋 Hi, I'm Rufus
 
-🎯 **Aspiring Data Analyst** | Python • SQL • Excel • Power BI  
-📊 Passionate about exploring data, finding insights, and creating clean visualizations.  
+**UI / Frontend Engineer (Junior)**  
+*Building clean, user-friendly interfaces with a strong data-driven mindset*
 
 ---
 
-## 🚀 My Projects
-- 📺 [Netflix EDA](https://github.com/BlladeRunner/netflix-eda-project) – Exploratory Data Analysis of Netflix dataset.
-- 🎥 [YouTube Trending EDA](https://github.com/BlladeRunner/youtube-eda-project) – Analysis of trending videos across countries.
-- 🏪 [Superstore](https://github.com/BlladeRunner/superstore-sql-analysis) - Top-10 customers, AOV by category, monthly trend, region/segment profitability, ABC, discount impact.
-- 🎵 [Chinook](https://github.com/BlladeRunner/chinook-sql-analysis) - Monthly revenue & MoM, top customers, genre share, support-rep performance, basket, cohorts, RFM.
-- 🎬 [Sakila](https://github.com/BlladeRunner/sakila-sql-analysis) – Rentals KPIs: monthly revenue & MoM, top films/customers, staff performance, country breakdown, cohorts & RFM.
-- 📊 [Sales Analysis (pandas)](https://github.com/BlladeRunner/sales-analysis-pandas) – Retail sales EDA with Python (pandas, matplotlib, seaborn). Includes monthly sales trend, top products, regional profitability, and sales vs profit analysis.
-- ☕ [Coffee Chain Analysis](https://github.com/BlladeRunner/coffee_chain_analysis) – EDA of global coffee chain sales using Python (pandas, matplotlib, seaborn). Includes monthly sales trends, top products, category profitability, and sales vs profit correlation.
-- 👥 [Customer Segmentation – RFM Analysis](https://github.com/BlladeRunner/customer_segmentation_rfm_analysis) – RFM-based customer segmentation using Python (pandas, matplotlib, seaborn). Identifies loyal, new, at-risk, and lost customers with visual insights and data-driven scoring.
-- 💹 [Crypto Market Analysis](https://github.com/BlladeRunner/crypto_market_analysis) - Cryptocurrency market analysis using Python (**pandas**, **matplotlib**, **seaborn**) and the **CoinGecko API**.  
-  Includes price trends, volatility, trading volume, correlation matrix, and max drawdown analytics.
-- 🧑‍💼 [HR Analytics](https://github.com/BlladeRunner/hr-sql-analysis) – Workforce insights using SQL (SQLite). Includes department-level salary analysis, gender ratio, hiring & termination trends, and experience-based pay insights.
-- 💹 [Finance Market Analytics](https://github.com/BlladeRunner/finance-market-analytics) - SQL + Python project for market data ETL and analytics. Uses yfinance to fetch stock prices, stores them in SQLite, and computes daily/monthly returns, top-performing months, and KPIs.
-- 💳 [Credit Card Fraud Detection (Deep Project)](https://github.com/BlladeRunner/credit-card-fraud) – End-to-end fraud detection project on extremely imbalanced data. Focuses on precision-recall metrics, PR-AUC, decision threshold tuning, and business cost trade-offs. Includes error analysis, false positive/false negative investigation, and executive-level recommendations.
-  
+## 🚀 About Me
+
+I’m a **UI / Frontend Engineer** focused on building modern, responsive, and reusable interfaces using **JavaScript, React, and Tailwind CSS**.
+
+My background in **data analytics** helps me approach frontend development with a product mindset — designing interfaces informed by **real data, user behavior, and metrics**, not just visuals.
+
+I’m actively looking for a **Frontend / UI Engineer role** where I can grow, ship real products, and collaborate with designers, analysts, and engineers.
+
 ---
 
-## 🛠️ Tools & Skills
+## 🧩 Frontend & UI Projects
 
-📊 Data Analytics
-- Python (pandas, numpy, matplotlib, seaborn)
-- SQL (SQLite, joins, CTEs, window functions)
-- Excel (Pivot Tables, VLOOKUP/XLOOKUP, Power Query)
-- Power BI (data modeling, DAX basics, dashboards)
-- Jupyter Notebooks
-- Data Analysis: EDA, KPI tracking, cohort analysis, RFM, segmentation, data visualization
+- ☕ [**NovaCup Coffee App**](https://github.com/BlladeRunner/novacup-coffee)  
+  UI-focused web app with modular components, clean layouts, and reusable UI patterns  
+  *JavaScript · Tailwind CSS · UI Architecture*
 
-🎨 Frontend / UI Engineering
+- 🎮 [**8-Ball Pool Game**](https://github.com/BlladeRunner/8-Ball-Pool-Game)  
+  Interactive browser game with state logic, DOM manipulation, and game mechanics  
+  *JavaScript · HTML · CSS*
+
+- 🎲 [**Tenzies Game**](https://github.com/BlladeRunner/Tenzies)  
+  React-based UI game using hooks, component logic, and state management  
+  *React · JavaScript*
+
+- ⚙️ [**Assembly Endgame**](https://github.com/BlladeRunner/assembly-endgame)  
+  UI-driven game project focusing on state transitions and user interaction  
+  *JavaScript · UI Logic*
+
+---
+
+## 📊 Data-Driven & Analytics Projects
+
+*(Supporting my UI work with strong analytical thinking)*
+
+- 📺 [**Netflix EDA**](https://github.com/BlladeRunner/netflix-eda-project) — user behavior analysis to derive product & content insights  
+  *Python · Pandas · Data Visualization*
+
+- 📈 [**YouTube Trending Analysis**](https://github.com/BlladeRunner/youtube-eda-project) — trend discovery and performance metrics  
+  *Python · Pandas · Matplotlib*
+
+- 🛒 [**Superstore Analytics**](https://github.com/BlladeRunner/superstore-sql-analysis) — business metrics, profitability, and dashboard logic  
+  *SQL · Excel · Power BI*
+
+- 💳 [**Credit Card Fraud Detection**](https://github.com/BlladeRunner/credit-card-fraud) — data exploration & feature reasoning  
+  *Python · Data Analysis*
+
+---
+
+## 🛠️ Tech Stack
+
+### UI / Frontend
 - JavaScript (ES6+)
-- React (hooks, component-based architecture, state management basics)
+- React (hooks, component architecture)
 - HTML5 / CSS3
-- Responsive Design (Flexbox, CSS Grid)
-- UI Development: reusable components, clean layouts, UX-oriented thinking
-- Styling: Tailwind CSS
+- Tailwind CSS
+- Responsive Design (Flexbox, Grid)
+- REST API integration
+- UI state & logic
 
-⚙️ Tooling & Workflow
+### Data & Analytics
+- SQL (joins, CTEs, window functions)
+- Python (pandas, matplotlib)
+- Data visualization
+- KPI & metrics-driven thinking
+
+### Tooling
 - Git & GitHub
 - VS Code
 - npm
-- Build Tools: Vite / Webpack (basic)
-- API Integration (REST, JSON)
+- Webpack (basic)
 
 ---
 
-## 🌍 Let's Connect
-- 💼 [LinkedIn] https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a/  
+## 🌍 Let’s Connect
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a](https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a/)
 - 📧 Email: rufat.ahmadzadeh@gmail.com
 
 ---
 
-✨ *Always learning, always exploring data!* 
+⭐ *Always learning. Always building. Always improving UI with data.*
