@@ -17,6 +17,10 @@ I’m actively looking for a **Frontend / UI Engineer role** where I can grow, s
 
 ## 🧩 Frontend & UI Projects
 
+- 📊 [**InsightDash – Analytics Dashboard**](https://github.com/BlladeRunner/insightdash-analytics-dashboard)  
+  Production-style analytics dashboard with KPI cards, interactive charts, filters, sortable tables, and theme switching  
+  React · Vite · Tailwind CSS · UI Architecture · Data Visualization
+
 - ☕ [**NovaCup Coffee App**](https://github.com/BlladeRunner/novacup-coffee)  
   UI-focused web app with modular components, clean layouts, and reusable UI patterns  
   *JavaScript · Tailwind CSS · UI Architecture*
