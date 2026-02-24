@@ -1,47 +1,32 @@
 # 👋 Hi, I'm Rufus (aka Rufat)
 
-**UI / Frontend Engineer (Junior)**  
-*Building clean, user-friendly interfaces with a strong data-driven mindset*
+Data Analyst | BI Analyst
+Turning raw data into structured insights and business-driven decisions.
 
 ---
 
-## 🚀 About Me
+📊 About Me
 
-I’m a **UI / Frontend Engineer** focused on building modern, responsive, and reusable interfaces using **JavaScript, React, and Tailwind CSS**.
+I am a Data Analyst focused on transforming data into actionable insights through structured analysis and clear visualization.
 
-My background in **data analytics** helps me approach frontend development with a product mindset — designing interfaces informed by **real data, user behavior, and metrics**, not just visuals.
+I have completed:
+- 🎓 Google Data Analytics Professional Certificate
+- 📊 Microsoft Power BI Certification
 
-I’m actively looking for a **Frontend / UI Engineer role** where I can grow, ship real products, and collaborate with designers, analysts, and engineers.
+My core expertise includes:
+- SQL (joins, CTEs, window functions)
+- Power BI (DAX, measures, calculated columns, star schema)
+- Data modeling & KPI reporting
+- Data cleaning and transformation
+- Python (Pandas, Matplotlib)
 
----
+I enjoy working with structured datasets, identifying trends, and building dashboards that support business decision-making.
 
-## 🧩 Frontend & UI Projects
-
-- 📊 [**InsightDash – Analytics Dashboard**](https://github.com/BlladeRunner/insightdash-analytics-dashboard)  
-  Production-style analytics dashboard with KPI cards, interactive charts, filters, sortable tables, and theme switching  
-  React · Vite · Tailwind CSS · UI Architecture · Data Visualization
-
-- ☕ [**NovaCup Coffee App**](https://github.com/BlladeRunner/novacup-coffee)  
-  UI-focused web app with modular components, clean layouts, and reusable UI patterns  
-  *JavaScript · Tailwind CSS · UI Architecture*
-
-- 🎮 [**8-Ball Pool Game**](https://github.com/BlladeRunner/8-Ball-Pool-Game)  
-  Interactive browser game with state logic, DOM manipulation, and game mechanics  
-  *JavaScript · HTML · CSS*
-
-- 🎲 [**Tenzies Game**](https://github.com/BlladeRunner/Tenzies)  
-  React-based UI game using hooks, component logic, and state management  
-  *React · JavaScript*
-
-- ⚙️ [**Assembly Endgame**](https://github.com/BlladeRunner/assembly-endgame)  
-  UI-driven game project focusing on state transitions and user interaction  
-  *JavaScript · UI Logic*
+Currently seeking a Junior Data Analyst / BI Analyst role.
 
 ---
 
-## 📊 Data-Driven & Analytics Projects
-
-*(Supporting my UI work with strong analytical thinking)*
+## 📈 Featured Analytics Projects
 
 - 📺 [**Netflix EDA**](https://github.com/BlladeRunner/netflix-eda-project) — user behavior analysis to derive product & content insights  
   *Python · Pandas · Data Visualization*
@@ -59,26 +44,24 @@ I’m actively looking for a **Frontend / UI Engineer role** where I can grow, s
 
 ## 🛠️ Tech Stack
 
-### UI / Frontend
-- JavaScript (ES6+)
-- React (hooks, component architecture)
-- HTML5 / CSS3
-- Tailwind CSS
-- Responsive Design (Flexbox, Grid)
-- REST API integration
-- UI state & logic
+### Data & BI
+- SQL (joins, CTEs, Window Functions)
+- Python (Pandas, Matplotlib)
+- Excel (Pivot Tables, Advanced Formulas)
+- Power BI (DAX, Data Modeling, Star Schema)
 
-### Data & Analytics
-- SQL (joins, CTEs, window functions)
-- Python (pandas, matplotlib)
-- Data visualization
-- KPI & metrics-driven thinking
+### Concepts
+- KPI Analysis
+- Data Cleaning
+- ETL Logic
+- Business Intelligence Reporting
+- Dashboard Optimization
 
-### Tooling
-- Git & GitHub
-- VS Code
-- npm
-- Webpack (basic)
+## 🎯 Focus Areas
+- Business Intelligence
+- Performance Analysis
+- Reporting Automation
+- Data-Driven Decision Making
 
 ---
 
@@ -86,7 +69,3 @@ I’m actively looking for a **Frontend / UI Engineer role** where I can grow, s
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a](https://www.linkedin.com/in/rufat-ahmad-zada-7084a319a/)
 - 📧 Email: rufat.ahmadzadeh@gmail.com
-
----
-
-⭐ *Always learning. Always building. Always improving UI with data.*
