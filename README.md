@@ -28,6 +28,9 @@ Currently seeking a Junior Data Analyst / BI Analyst role.
 
 ## 📈 Featured Analytics Projects
 
+- 📦 [**E-commerce Delivery Delay Analysis**](https://github.com/BlladeRunner/ecommerce-delivery-delay-analysis) — operational performance & customer satisfaction impact analysis  
+  *Power BI · DAX · Power Query · SQL · Data Modeling*
+
 - 📺 [**Netflix EDA**](https://github.com/BlladeRunner/netflix-eda-project) — user behavior analysis to derive product & content insights  
   *Python · Pandas · Data Visualization*
 
@@ -39,7 +42,7 @@ Currently seeking a Junior Data Analyst / BI Analyst role.
 
 - 💳 [**Credit Card Fraud Detection**](https://github.com/BlladeRunner/credit-card-fraud) — data exploration & feature reasoning  
   *Python · Data Analysis*
-
+  
 ---
 
 ## 🛠️ Tech Stack
