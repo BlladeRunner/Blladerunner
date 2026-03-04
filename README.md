@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rufus (aka Rufat)
+# 👋 Hi, I'm Rufat (aka Rufus)
 
 Data Analyst | BI Analyst
 Turning raw data into structured insights and business-driven decisions.
