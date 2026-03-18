@@ -28,6 +28,9 @@ Currently seeking a Junior Data Analyst / BI Analyst role.
 
 ## 📈 Featured Analytics Projects
 
+- 📊 [**Customer Retention & Cohort Analysis**](https://github.com/BlladeRunner/customer-retention-cohort-analysis) — cohort analysis to evaluate customer retention, repeat behavior, and churn patterns  
+  Power BI · DAX · SQL · Cohort Analysis · Data Modeling
+
 - 📦 [**E-commerce Delivery Delay Analysis**](https://github.com/BlladeRunner/ecommerce-delivery-delay-analysis) — operational performance & customer satisfaction impact analysis  
   *Power BI · DAX · Power Query · SQL · Data Modeling*
 
